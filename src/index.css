@@ -71,7 +71,8 @@
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: top;
-  background-size: 115vw;
+  background-size:115vw;
+  
   background-repeat: no-repeat;
   /* background-size: cover; */
 }
@@ -91,7 +92,7 @@
 }
 
 #parallax-inicio {
-  min-height: 200px;
+  min-height: 150px;
   background-size: 115vw;
 }
 
