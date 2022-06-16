@@ -79,6 +79,7 @@
 
 .parallax {
   background-image: url("./assets/sunset.jpg");
+  background-color: #e74b4b;
   color: white;
   padding: 10px;
   background-size: 40%;
