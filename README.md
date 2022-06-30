@@ -29,3 +29,4 @@ To stop, restart or delete process do:
 pm2 stop (id or name of the process, which you can find by doing pm2 ls)
 pm2 delete (id or name of the process, which you can find by doing pm2 ls)
 pm2 restart (id or name of the process, which you can find by doing pm2 ls)
+```

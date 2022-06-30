@@ -8,7 +8,7 @@ export default function Footer() {
         <p>Radio El Mundo S.A. de C.V.</p>
         <p>Final 5a. Avenida Norte El Salvador, C. A, C. Universitaria Nte., Mejicanos, Salvador</p>
         <p>Tel: +503 2226-4441</p>
-        <p>Mail: radios@mundoclasicaupa.com.sv</p>
+        <p>Mail: radios@mundoclasicaupa.com</p>
       </div>
     </footer>
   );
